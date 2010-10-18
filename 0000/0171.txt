@@ -1,0 +1,11 @@
+もじモードを　えらんでください
+A boy？　A girl？
+つうしんきのう　を　オンにしますか？
+ちゅうい！
+このゲームを　さいだいげんに　たのしむ\xfffeためには　むせんつうしんきのうを\xfffeオンに　してください\xfffeひこうきや　びょういんなど\xfffeむせんつうしんきのうを　きんしに　している\xfffeばしょでは　オフに　してください\xfffeゲームちゅうの　せっていがめんでも\xfffeへんこう　することが　できます　
+Hiragana Mode
+Katakana Mode
+Boy
+Girl
+Yes
+No

@@ -1,0 +1,33 @@
+Welches Alphabet willst du benutzen?\xfffeEnglisches oder Kanji?\xf000븁\x0000
+Englisches
+Kanji
+それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁\x0000
+no data
+セーブデータを　さくせい　しています\xfffeBitte einen Moment warten.
+Hallo！\xfffeWillkommen in der Welt der Pokémon!\xf000븁\x0000
+Mein Name ist Professor Araragi.\xf000븁\x0000Aber jeder nennt mich\xfffePokémon Professor.\xf000븁\x0000
+Diese Welt wird allgemein von Kreaturen, \xfffebekannt als Pokémon, bewohnt.\xf000븁\x0000Wir Menschen leben mit den Pokémon\xfffefriedlich zusammen.\xf000븁\x0000Manchmal spielen wir zusammen, und ein\xfffeanderes Mal arbeiten wir zusammen.\xf000븁\x0000
+Einige Menschen benutzen ihre Pokémon zum\xfffekämpfen um mit ihnen eine engere Bindung\xf000븀\x0000zu schaffen.\xf000븁\x0000
+Nun, warum erzählst du mir denn nicht einwenig\xfffeüber dich?\xf000븁\x0000
+Bist du ein Junge?\xfffeOder ein Mädchen?\xf000븁\x0000
+Du bist also ein Junge?\xf000븁\x0000
+Du bist also ein Mädchen?\xf000븁\x0000
+Junge
+Mädchen
+Okay!\xf000븁\x0000Ich möchte gerne deinen Namen wissen.\xfffeWie ist dein Name?\xf000븁\x0000
+Dein Name ist also \xf000Ā\x0001\x0000?\xf000븁\x0000
+Dein Name ist also \xf000Ā\x0001\x0000?\xf000븁\x0000
+Ja
+Nein
+\xf000Ā\x0001\x0000! Lass mich dir deine \xfffeFreunde vorstellen!\xf000븁\x0000
+Gut... Ich denke du kennst Sie bereits...\xfffeTrotzdem lass sie mich dir schnell vorstellen.\xf000븁\x0000
+Das ist Cheren.\xf000븁\x0000Er hat, seitdem er 2 Jahre alt ist, eine\xfffeLeidenschaft für Pokémon.\xf000븁\x0000Er liest auch sehr viel!\xf000븁\x0000
+Und das ist Bel.\xf000븁\x0000Dieses Mädchen ist einwenig wie\xfffeein Störenfried...\xf000븁\x0000Sie kämpft immer mit ihrer\xfffeMutter und ihrem Vater.\xf000븁\x0000
+Und mit dir in dem Club,\xfffesind es insgesammt 3!\xf000븁\x0000Gut... Ich wette du hast das schon\xfffe gewusst, aber lass uns weiter machen.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000Du bist fast bereit in die\xfffeWelt der Pokémon zu gehen!\xf000븁\x0000Erinnere dich immer weiter zu,\xfffegehen egal was passiert.\xf000븁\x0000Vergiss das nicht!\xf000븁\x0000Gut... Was soll´s...\xfffeIch werde dich später sehen.\xf000븁\x0000Komm zu mir in mein Labor \xfffesobald du in der Stadt bist.\xf000븁\x0000Gehe jetzt und reise \xfffein die Welt der Pokémon!
+ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
+Gut！\xfffeこれで　オーケーと！\xf000븁\x0000
+ちゅうい！\xfffeべつの　ポケモンレポートが　かかれて　いますので\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも　よろしいですか？
+ぼうけんを　はじめる
+Zurück zum Menü
+Demonstration überspringen？
