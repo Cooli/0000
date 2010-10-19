@@ -1,116 +1,116 @@
 -\xfffe-\xfffe-
-The best Ball with the ultimate level\xfffeof performance. It will catch any\xfffewild Pokémon without fail.
-An ultra-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a Great Ball.
-A good, high-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a standard Poké Ball.
-A device for catching wild Pokémon.\xfffeIt is thrown like a ball at the target.\xfffeIt is designed as a capsule system.
-A special Poké Ball that is used only\xfffein the Great Marsh. It is decorated\xfffein a camouflage pattern.
-A somewhat different Poké Ball that\xfffeworks especially well on Water- and\xfffeBug-type Pokémon.
-A somewhat different Poké Ball that\xfffeworks especially well on Pokémon\xfffethat live in the sea.
-A somewhat different Poké Ball that\xfffeworks especially well on weaker\xfffePokémon in the wild.
-A somewhat different Poké Ball that\xfffeworks especially well on Pokémon\xfffespecies that were previously caught.
-A somewhat different Ball that\xfffebecomes progressively better the\xfffemore turns there are in a battle.
-A comfortable Poké Ball that makes\xfffea caught wild Pokémon quickly grow\xfffefriendly.
-A somewhat rare Poké Ball that has\xfffebeen specially made to commemorate\xfffean event of some sort.
-A somewhat different Poké Ball that\xfffemakes it easier to catch wild Pokémon\xfffeat night or in dark places like caves.
-A remedial Poké Ball that restores\xfffethe caught Pokémon’s HP and\xfffeeliminates any status problem.
-A somewhat different Poké Ball that\xfffeprovides a better catch rate if it is\xfffeused at the start of a wild encounter.
+Der beste Ball!\xfffeDamit fängst du garantiert\xfffejedes wilde Pokémon.
+Ein Ball mit hoher Erfolgsquote.\xfffeDem Superball in allen\xfffePunkten überlegen.
+Ein Ball mit guter Erfolgsquote.\xfffeDem Pokéball in allen\xfffePunkten überlegen.
+Damit fängst du wilde Pokémon.\xfffeDu wirfst ihn wie einen normalen Ball.\xfffeDas Design ähnelt dem einer Kapsel.
+Ein Ball, der nur in der Safari-Zone\xfffeeingesetzt wird. Er besticht durch\xfffesein Tarnfarbenmuster.
+Ein Ball, der sich besonders gut eignet,\xfffeum Wasser- und Käfer-Pokémon\xfffezu fangen.
+Ein Ball, mit dem sich Pokémon,\xfffedie auf dem Meeresgrund leben,\xfffebesser fangen lassen.
+Ein Ball, dessen Erfolgsquote\xfffebesonders bei schwächeren\xfffePokémon sehr hoch ist.
+Ein Ball, der besonders dann sehr gut\xfffeist, wenn man ein Pokémon fängt, dessen\xfffeArt bereits gefangen wurde.
+Ein Ball, der mit zunehmender\xfffeKampfdauer effektiver wird.
+Ein behaglicher Ball, der Pokémon\xfffeveranlasst, nach dem Fang schneller\xfffefreundlicher zu werden.
+Ein eher seltener Ball, der als\xfffeReminiszenz an irgendein\xfffeEreignis hergestellt wurde.
+Ein mysteriöser Ball,\xfffegeeignet für Einsätze in der\xfffeNacht oder an dunklen Orten.
+Ein wohltuender Ball. Er füllt alle KP\xfffedes gefangenen Pokémon auf und hebt\xfffealle Statusprobleme auf.
+Ein ungewöhnlicher Ball, der\xfffezu Beginn eines Kampfes am\xfffewirkungsvollsten ist.
 A quite rare Poké Ball that has been\xfffespecially crafted to commemorate\xfffean occasion of some sort.
-A spray-type medicine for wounds.\xfffeIt restores the HP of one Pokémon\xfffeby just 20 points.
-A spray-type medicine.\xfffeIt lifts the effect of poison from\xfffeone Pokémon.
-A spray-type medicine.\xfffeIt heals a single Pokémon that is\xfffesuffering from a burn.
-A spray-type medicine.\xfffeIt defrosts a Pokémon that has been\xfffefrozen solid.
-A spray-type medicine.\xfffeIt awakens a Pokémon from the\xfffeclutches of sleep.
-A spray-type medicine.\xfffeIt eliminates paralysis from a single\xfffePokémon.
-A medicine that fully restores the\xfffeHP and heals any status problems\xfffeof a single Pokémon.
-A spray-type medicine for wounds.\xfffeIt completely restores the HP of a\xfffesingle Pokémon.
-A spray-type medicine for wounds.\xfffeIt restores the HP of one Pokémon\xfffeby 200 points.
-A spray-type medicine for wounds.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
-A spray-type medicine.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
-A medicine that revives a fainted\xfffePokémon. It restores half the\xfffePokémon’s maximum HP.
-A medicine that revives a fainted\xfffePokémon. It fully restores the\xfffePokémon’s HP.
-Water with a high mineral content.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
-A fizzy soda drink.\xfffeIt restores the HP of one Pokémon\xfffeby 60 points.
-A very sweet drink.\xfffeIt restores the HP of one Pokémon\xfffeby 80 points.
-Milk with a high nutrition content.\xfffeIt restores the HP of one Pokémon\xfffe by 100 points.
-A very bitter medicine powder.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
-A very bitter root.\xfffeIt restores the HP of one Pokémon\xfffeby 200 points.
-A very bitter medicine powder.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
-A very bitter medicinal herb.\xfffeIt revives a fainted Pokémon, fully\xffferestoring its HP.
-It restores the PP of a Pokémon’s\xfffeselected move by a maximum of\xfffe10 points.
-It fully restores the PP of a single\xfffeselected move that has been learned\xfffeby the target Pokémon.
-It restores the PP of all the\xfffemoves learned by the targeted\xfffePokémon by 10 points each.
-It fully restores the PP of all the\xfffemoves learned by the targeted\xfffePokémon.
-Lavaridge Town’s local specialty.\xfffeIt heals all the status problems of\xfffeone Pokémon.
-A 100% pure juice made of Berries.\xfffeIt restores the HP of one Pokémon\xfffeby just 20 points.
-It revives all fainted Pokémon.\xfffeIn doing so, it also fully restores\xfffetheir HP.
-A nutritious drink for Pokémon.\xfffeIt raises the base HP of a single\xfffePokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Attack stat\xfffeof a single Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Defense stat\xfffeof a single Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Speed stat\xfffeof a single Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Sp. Atk (Special\xfffeAttack) stat of a single Pokémon.
-A candy that is packed with energy.\xfffeIt raises the level of a single\xfffePokémon by one.
-It slightly raises the maximum PP of\xfffea selected move that has been\xfffelearned by the target Pokémon.
-A nutritious drink for Pokémon.\xfffeIt raises the base Sp. Def (Special\xfffeDefense) stat of a single Pokémon.
-It maximally raises the top PP of a\xfffeselected move that has been learned\xfffeby the target Pokémon.
-Old Chateau’s hidden specialty.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
-An item that prevents stat reduction\xfffeamong the Trainer’s party Pokémon\xfffefor five turns after use.
-An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Attack stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Defense stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the accuracy\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-An item that raises the Sp. Def stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
-A doll that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
-An item that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
-A blue flute made from blown glass.\xfffeIts melody awakens a single Pokémon\xfffefrom sleep.
-A yellow flute made from blown glass.\xfffeIts melody snaps a single Pokémon\xfffeout of confusion.
-A red flute made from blown glass.\xfffeIts melody snaps a single Pokémon\xfffeout of infatuation.
-A black flute made from blown glass.\xfffeIts melody makes wild Pokémon less\xfffelikely to appear.
-A white flute made from blown glass.\xfffeIts melody makes wild Pokémon more\xfffelikely to appear.
-Pure salt that was discovered\xfffedeep inside the Shoal Cave.\xfffeIt is extremely salty.
-A pretty seashell that was found\xfffedeep inside the Shoal Cave.\xfffeIt is striped in blue and white.
-A small red shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-A small blue shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-A small yellow shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-A small green shard.\xfffeIt appears to be from some sort of\xfffeimplement made long ago.
-An item that prevents weak wild\xfffePokémon from appearing for 200\xfffesteps after its use.
-An item that prevents weak wild\xfffePokémon from appearing for 250\xfffesteps after its use.
-A long, durable rope.\xfffeUse it to escape instantly from\xfffea cave or a dungeon.
-An item that prevents weak wild\xfffePokémon from appearing for 100\xfffesteps after its use.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as red as the sun.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as black as the night sky.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is colored orange.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt has a thunderbolt pattern.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is a clear, light blue.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt has a leaf pattern.
-A small and rare mushroom.\xfffeIt is quite popular among certain\xfffemaniacal fan segments.
-A large and rare mushroom.\xfffeIt is very popular among certain\xfffemaniacal fan segments.
-A somewhat-small pearl that\xfffesparkles in a pretty silver color.\xfffeIt can be sold cheaply to shops.
-A quite-large pearl that sparkles in\xfffea pretty silver color. It can be\xfffesold at a high price to shops.
-Lovely, red-colored sand with a\xfffeloose, silky feel. It can be sold at\xfffea high price to shops.
-A shard of a pretty gem that\xfffesparkles in a red color. It can\xfffebe sold at a high price to shops.
-A nugget of pure gold that gives off\xfffea lustrous gleam. It can be sold\xfffeat a high price to shops.
-A pretty, heart-shaped scale that\xfffeis extremely rare. It glows faintly\xfffein the colors of the rainbow.
-A sweet honey with a lush aroma that\xfffeattracts wild Pokémon when it is used\xfffein grass, caves, or on special trees.
-A fertilizer to be spread on soft soil.\xfffeIt speeds up the growth of Berries.\xfffeHowever, it also dries the soil faster.
-A fertilizer to be spread on soft soil.\xfffeIt slows the growth of Berries and\xfffecauses the soil to dry slower.
-A fertilizer to be spread on soft soil.\xfffeIt extends the time ripened Berries\xffferemain on their plants before falling.
-A fertilizer to be spread on soft soil.\xfffeIt ups the number of times new plants\xfffegrow where mature plants withered.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a plant root.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a claw.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a seashell.
-A fossil of an ancient Pokémon that\xfffelived in the sea. It appears to be\xfffepart of a shell.
-A piece of amber that contains the\xfffegenetic material of an ancient Pokémon.\xfffeIt is clear with a reddish tint.
-A fossil from a prehistoric Pokémon\xfffethat lived on the land. It appears\xfffeto be part of a collar.
-A fossil from a prehistoric Pokémon\xfffethat lived on the land. It appears\xfffeto be part of a head.
-A bone that is extremely valuable for\xfffePokémon archaeology. It can be sold\xfffefor a high price to shops.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt shines with a dazzling light.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is as dark as dark can be.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt sparkles like eyes.
-A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is shaped like an egg.
-A vital item that is needed to keep a\xfffestone tower from collapsing. Voices\xfffecan be heard from it occasionally.
-A glowing orb to be held by GIRATINA.\xfffeIt boosts the power of\xfffeDragon- and Ghost-type moves.
+Hilft bei Wunden.\xfffeDie KP eines Pokémon\xfffewerden um 20 Punkte aufgefüllt.
+Ein Spray, das Vergiftungen\xfffeeines Pokémon heilt.
+Ein Spray, das Verbrennungen\xfffeeines Pokémon heilt.
+Ein Spray, das ein eingefrorenes\xfffePokémon auftaut.
+Ein Spray, das ein schlafendes\xfffePokémon aufweckt.
+Ein Spray, das ein Pokémon\xfffevon Paralyse heilt.
+Dieses Item stellt alle KP eines\xfffePokémon wieder her und behebt\xfffealle Statusprobleme des Pokémon.
+Hilft bei Wunden.\xfffeFüllt die KP eines Pokémon\xfffevollständig wieder auf.
+Hilft bei Wunden.\xfffeFüllt die KP eines Pokémon\xfffeum 200 Punkte wieder auf.
+Hilft bei Wunden.\xfffeEs füllt die KP eines Pokémon\xfffeum 50 Punkte wieder auf.
+Ein Spray, das alle Statusprobleme\xfffeeines Pokémon aufhebt.
+Eine Medizin, die ein kampfunfähiges\xfffePokémon wiederbelebt. Die Hälfte der\xfffemaximalen KP werden wiederhergestellt.
+Eine Medizin, die ein kampfunfähiges\xfffePokémon wiederbelebt. Die KP werden\xfffevollständig wiederhergestellt.
+Ein stilles Wasser mit hohem\xfffeMineralienanteil, das die KP eines\xfffePokémon um 50 Punkte auffüllt.
+Ein sprudelndes Mineralwasser,\xfffedas die KP eines Pokémon\xfffeum 60 Punkte auffüllt.
+Ein süßes Getränk, das die KP eines\xfffePokémon um 80 Punkte auffüllt.
+Eine äußerst nährstoffreiche Milch, die\xfffedie KP eines Pokémon um 100 Punkte\xfffewieder auffüllt.
+Ein bitteres, medizinisches Pulver,\xfffedas die KP eines Pokémon um\xfffe50 Punkte auffüllt.
+Eine bittere Wurzel. Sie füllt die\xfffeKP eines Pokémon um 200 Punkte auf.
+Ein bitteres, medizinisches Pulver,\xfffedas alle Statusprobleme eines Pokémon \xfffeaufhebt.
+Ein bitteres, medizinisches Kraut, das\xfffekampfunfähige Pokémon belebt und\xfffedie KP vollständig auffüllt.
+Füllt die AP einer ausgewählten Attacke\xfffeeines Pokémon um 10 Punkte auf.
+Füllt die AP einer ausgewählten Attacke\xfffeeines Pokémon vollständig auf.
+Füllt die AP aller Attacken eines\xfffePokémon um 10 Punkte auf.
+Füllt alle AP aller Attacken eines\xfffePokémon vollständig auf.
+Eine Spezialität aus Bad Lavastadt,\xfffedie alle Statusprobleme eines\xfffePokémon heilt.
+100 %iger Fruchtsaft, aus Beeren\xfffegekeltert. Er stellt 20 KP eines\xfffePokémon wieder her.
+Belebt und erfrischt alle besiegten\xfffePokémon und füllt deren KP\xfffevollständig wieder auf.
+Ein gehaltvolles Getränk, das\xfffedie KP-Anzahl eines Pokémon\xfffedauerhaft erhöht.
+Ein gehaltvolles Getränk, das den\xfffeAngriffs-Wert eines Pokémon\xfffedauerhaft hebt.
+Ein gehaltvolles Getränk, das den\xfffeVerteidigungs-Wert eines Pokémon\xfffedauerhaft hebt.
+Ein gehaltvolles Getränk, das den\xfffeInitiative-Wert eines Pokémon\xfffedauerhaft hebt.
+Ein gehaltvolles Getränk, das den\xfffeSpezial-Angriff eines Pokémon\xfffedauerhaft hebt.
+Ein energiereiches Bonbon, das\xfffeden Level eines Pokémon dauerhaft\xfffeum eins anhebt.
+Hebt die maximale Anzahl der AP\xfffeeiner Attacke eines Pokémon.
+Ein gehaltvolles Getränk, das die\xfffeSpezial-Verteidigung eines Pokémon\xfffedauerhaft hebt.
+Maximiert die Anzahl der AP\xfffeeiner Attacke eines Pokémon.
+Eine unbekannte Spezialität.\xfffeSie behebt alle Statusprobleme\xfffeeines Pokémon.
+Eine mögliche Statuswertänderung\xfffeder Pokémon im Team wird für\xfffe5 Runden verhindert.
+Hebt die Volltrefferquote des Pokémon\xfffeim Kampf. Die Wirkung wird mit\xfffedem Tausch des Pokémon beendet.
+Hebt den Angriffs-Wert eines Pokémon\xfffeim Kampf. Die Wirkung wird mit dem\xfffeTausch des Pokémon beendet.
+Hebt den Verteidigungs-Wert eines\xfffePokémon im Kampf. Die Wirkung wird\xfffemit dem Tausch des Pokémon beendet.
+Hebt den Initiative-Wert eines Pokémon\xfffeim Kampf. Die Wirkung wird mit dem\xfffeTausch des Pokémon beendet.
+Hebt die Genauigkeit eines Pokémon\xfffeim Kampf. Die Wirkung wird mit dem\xfffeTausch des Pokémon beendet.
+Hebt den Spezial-Angriff eines Pokémon\xfffeim Kampf. Die Wirkung wird mit dem\xfffeTausch des Pokémon beendet.
+Hebt die Spezial-Verteidigung eines\xfffePokémon im Kampf. Die Wirkung wird\xfffemit dem Tausch des Pokémon beendet.
+Eine hübsche Puppe. Sie ermöglicht\xfffedie Flucht im Kampf gegen wilde\xfffePokémon.
+Ein tolles Item. Fliehe damit aus\xfffejedem Kampf mit einem wilden\xfffePokémon.
+Eine blaue, gläserne Flöte, die\xfffeein schlafendes Pokémon weckt.
+Eine gelbe, gläserne Flöte, die\xfffeein Pokémon von Verwirrung heilt.
+Eine rote, gläserne Flöte, die\xfffeein Pokémon von Anziehung heilt.
+Eine schwarze, gläserne Flöte, die\xfffewilde Pokémon vom Angriff\xfffeabhalten kann.
+Eine durchsichtige, gläserne Flöte,\xfffedie wilde Pokémon anziehen kann.
+Salz, das sich tief in der Küstenhöhle\xfffebefand. Es ist extrem salzig!
+Eine schöne Muschelschale, die\xfffesich in der Küstenhöhle befand.\xfffeSie ist blauweiß gestreift.
+Eine rote Scherbe eines antiken\xfffeWerkzeugs, das vor langer Zeit\xfffeangefertigt wurde.
+Eine blaue Scherbe eines antiken\xfffeWerkzeugs, das vor langer Zeit\xfffeangefertigt wurde.
+Eine gelbe Scherbe eines antiken\xfffeWerkzeugs, das vor langer Zeit\xfffeangefertigt wurde.
+Eine grüne Scherbe eines antiken\xfffeWerkzeugs, das vor langer Zeit\xfffeangefertigt wurde.
+Hält 200 Schritte lang schwache,\xfffewilde Pokémon ab.
+Hält 250 Schritte lang schwache,\xfffewilde Pokémon ab.
+Ein langes, festes Seil, das die\xfffesofortige Flucht aus Höhlen oder\xfffeÄhnlichem ermöglicht.
+Hält 100 Schritte lang schwache,\xfffewilde Pokémon ab.
+Dieser spezielle Stein löst bei\xfffebestimmten Pokémon die Entwicklung\xfffeaus. Er ist rot wie die Sonne.
+Dieser spezielle Stein löst bei\xfffebestimmten Pokémon die Entwicklung\xfffeaus. Er ist schwarz wie die Nacht.
+Dieser spezielle Stein löst bei\xfffebestimmten Pokémon die\xfffeEntwicklung aus. Er ist orange.<text id="8
+Dieser spezielle Stein löst bei\xfffebestimmten Pokémon die Entwicklung\xfffeaus. Er hat ein Blitzmuster.
+Dieser spezielle Stein löst bei\xfffebestimmten Pokémon die\xfffeEntwicklung aus. Er ist hellblau.
+Dieser spezielle Stein löst bei\xfffebestimmten Pokémon die Entwicklung\xfffeaus. Er hat ein Blattmuster.
+Ein kleiner und seltener Pilz.\xfffeSeine Fans sind ganz aus dem Häuschen,\xfffewenn sie einen finden.
+Ein großer und seltener Pilz. Liebhaber\xfffedieses Pilzes freuen sich ein Loch in\xfffeden Bauch, wenn sie einen finden.
+Eine relativ kleine Perle, die in\xfffeschönem Silber funkelt. Sie ist von\xfffegeringem Wert.
+Eine relativ große Perle, die in\xfffeschönem Silber funkelt. Sie ist von\xfffehohem Wert.
+Schöner, roter Sand, der sich\xfffeseidenweich anfühlt. Er ist von\xfffehohem Wert.
+Teil eines hübschen Edelsteins, der in\xffferötlicher Farbe schimmert. Erzielt einen\xfffehohen Preis, wenn man ihn verkauft.
+Ein Nugget aus purem Gold, das\xfffeeinen schimmernden Glanz besitzt. \xfffeEs ist von großem Wert.
+Eine hübsche, herzförmige, sehr\xfffeseltene Schuppe. Sie erstrahlt in\xfffeden Farben des Regenbogens.
+Der Duft dieses Honigs lockt\xfffewilde Pokémon an. Verwende ihn in\xfffehohem Gras oder an besonderen Bäumen.
+Ein Dünger für weichen Boden.\xfffeDie Beeren wachsen schneller,\xfffeaber die Erde trocknet aus.
+Ein Dünger für weichen Boden.\xfffeDie Beeren wachsen langsamer,\xfffeaber die Erde bleibt feuchter.
+Ein Dünger für weichen Boden.\xfffeDie Beeren halten länger, bevor\xfffesie zu Boden fallen.
+Ein Dünger für weichen Boden.\xfffeErhöht die Rate neuer Pflanzen,\xfffenachdem alte verwelkt sind.
+Das Fossil eines uralten Pokémon,\xfffedas in der Tiefsee lebte. Es sieht\xfffewie eine Pflanzenwurzel aus.
+Das Fossil eines uralten Pokémon,\xfffedas in der Tiefsee lebte. Es sieht\xfffewie eine Klaue aus.
+Ein Fossil eines antiken Pokémon,\xfffedas am Meeresgrund lebte. Es sieht\xfffewie ein Muschelstück aus.
+Ein Fossil eines antiken Pokémon,\xfffedas am Meeresgrund lebte. Es sieht\xfffewie das Stück einer Muschel aus.
+Ein Stück Bernstein, in dem die Gene\xfffeeines antiken Pokémon enthalten\xfffesind. Es ist durchsichtig!
+Ein Fossil eines antiken\xfffePokémon, das an Land lebte.\xfffeEs sieht wie ein Schlüsselbein aus.
+Ein Fossil eines antiken\xfffePokémon, das an Land lebte.\xfffeEs sieht wie ein Schädel aus.
+Dieser Knochen erfreut jeden\xfffePokémon-Archäologen. Er ist\xfffevon hohem Wert.
+Dieser besondere, hell leuchtende\xfffeStein hilft manchen Pokémon bei\xfffeihrer Evolution.
+Dieser besondere, düstere Stein\xfffehilft manchen Pokémon bei\xfffeihrer Evolution.
+Dieser besondere, glitzernde Stein\xfffehilft manchen Pokémon bei\xfffeihrer Evolution.
+Dieser besondere, eiförmige Stein\xfffehilft manchen Pokémon bei\xfffeihrer Evolution.
+Ein wichtiges Item, mit dem\xfffeein Steinturm repariert werden\xfffekann.
+Ein glühender Orb. Verstärkt\xfffeAttacken vom Typ Drachen und\xfffeGeist, wenn GIRATINA ihn trägt.
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
@@ -133,199 +133,199 @@ A Cassette that if held by Genesect \xfffemakes Techno Buster become \xfffean Ic
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
 -\xfffe-\xfffe-
-A brightly gleaming orb to be held by\xfffeDIALGA. It boosts the power of\xfffeDragon- and Steel-type moves.
-A beautifully glowing orb to be held by\xfffePALKIA. It boosts the power of Dragon-\xfffeand Water-type moves.
-Stationery featuring a print of a\xffferefreshingly green field.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of flames\xfffein blazing red.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of a blue\xfffeworld underwater.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of pretty\xfffefloral patterns.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of a dimly\xfffelit coal mine.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of cool\xfffemechanical designs.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of giant\xfffeheart patterns.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of a\xfffechilly, snow-covered world.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print depicting\xfffethe huge expanse of space.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of\xfffecolorful letter sets.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of a vivid\xffferainbow pattern.\xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of a\xfffetough-looking brick pattern.\xfffeLet a Pokémon hold it for delivery.
-It may be used or held by a Pokémon to\xffferecover from paralysis.
-It may be used or held by a Pokémon to\xffferecover from sleep.
-It may be used or held by a Pokémon to\xffferecover from poison.
-It may be used or held by a Pokémon to\xffferecover from a burn.
-It may be used or held by a Pokémon to\xfffedefrost it.\xfffe
-It may be used or held by a Pokémon to\xffferestore a move’s PP by 10.
-It may be used or held by a Pokémon to\xfffeheal the user by just 10 HP.
-It may be used or held by a Pokémon to\xffferecover from confusion.
-It may be used or held by a Pokémon to\xffferecover from any status problem.
-It may be used or held by a Pokémon to\xfffeheal the user’s HP a little.
-If held by a Pokémon, it restores the\xfffeuser’s HP in a pinch, but will cause\xfffeconfusion if it hates spicy food.
-If held by a Pokémon, it restores the\xfffeuser’s HP in a pinch, but will cause\xfffeconfusion if it hates dry food.
-If held by a Pokémon, it restores the\xfffeuser’s HP in a pinch, but will cause\xfffeconfusion if it hates sweet food.
-If held by a Pokémon, it restores the\xfffeuser’s HP in a pinch, but will cause\xfffeconfusion if it hates bitter food.
-If held by a Pokémon, it restores the\xfffeuser’s HP in a pinch, but may cause\xfffeconfusion if it hates sour food.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-Using it on a Pokémon makes it more\xfffefriendly, but it also lowers its base HP.
-Using it on a Pokémon makes it more\xfffefriendly, but it also lowers its base\xfffeAttack stat.
-Using it on a Pokémon makes it more\xfffefriendly, but it also lowers its base\xfffeDefense stat.
-Using it on a Pokémon makes it more\xfffefriendly, but it also lowers its base\xfffeSp. Atk stat.
-Using it on a Pokémon makes it more\xfffefriendly, but it also lowers its base\xfffeSp. Def stat.
-Using it on a Pokémon makes it more\xfffefriendly, but it also lowers its base\xfffeSpeed stat.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-In the Sinnoh region, they like to make\xfffesweets known as Poffins with this Berry\xfffeand feed them to their Pokémon.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Fire-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Water-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Electric-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Grass-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Ice-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Fighting-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Poison-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Ground-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Flying-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Psychic-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Bug-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Rock-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Ghost-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Dragon-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Dark-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffesupereffective Steel-type attack.
-If held by a Pokémon, it weakens a foe’s\xfffeNormal-type attack.
-If held by a Pokémon, it raises its\xfffeAttack stat in a pinch.
-If held by a Pokémon, it raises its\xfffeDefense stat in a pinch.
-If held by a Pokémon, it raises its\xfffeSpeed stat in a pinch.
-If held by a Pokémon, it raises its\xfffeSp. Atk stat in a pinch.
-If held by a Pokémon, it raises its\xfffeSp. Def stat in a pinch.
-If held by a Pokémon, it raises its\xfffecritical-hit ratio in a pinch.
-If held by a Pokémon, it sharply raises\xfffeone of its stats in a pinch.
-If held by a Pokémon, it restores\xfffeits HP if it is hit by a foe’s\xfffesupereffective attack.
-If held by a Pokémon, it raises the\xfffeaccuracy of a move just once in a pinch.
-If held by a Pokémon, it gets to move\xfffefirst just once in a pinch.
-If held by a Pokémon and a foe’s\xfffephysical attack lands, the foe also\xfffetakes damage.
-If held by a Pokémon and a foe’s\xfffespecial attack lands, the foe also\xfffetakes damage.
-An item to be held by a Pokémon.\xfffeIt casts a tricky glare that lowers\xfffethe opponent’s accuracy.
-An item to be held by a Pokémon.\xfffeIt restores any lowered stat in\xfffebattle. It can be used only once.
-An item to be held by a Pokémon. It is\xfffea stiff and heavy brace that promotes\xfffestrong growth but lowers Speed.
-An item to be held by a Pokémon.\xfffeThe holder gets a share of a battle’s\xfffeExp. Points without battling.
-An item to be held by a Pokémon.\xfffeA light, sharp claw that lets the\xfffebearer move first occasionally.
-An item to be held by a Pokémon. It is\xfffea bell with a comforting chime that\xfffecalms the holder and makes it friendly.
-An item to be held by a Pokémon. It\xfffesnaps the holder out of infatuation.\xfffeIt can be used only once.
-An item to be held by a Pokémon.\xfffeThis headband ups Attack, but allows\xfffethe use of only one kind of move.
-An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffethe holder inflicts damage.
-An item to be held by a Pokémon.\xfffeIt is a shiny, silver powder that ups\xfffethe power of Bug-type moves.
-An item to be held by a Pokémon.\xfffeIt doubles a battle’s prize money if\xfffethe holding Pokémon joins in.
-An item to be held by a Pokémon.\xfffeIt helps keep wild Pokémon away if the\xfffeholder is the first one in the party.
-A wondrous orb to be held by LATIOS\xfffeor LATIAS. It raises both the\xfffeSp. Atk and Sp. Def stats.
-An item to be held by CLAMPERL.\xfffeA fang that gleams a sharp silver, it\xffferaises the Sp. Atk stat.
-An item to be held by CLAMPERL.\xfffeA scale that shines a faint pink, it\xffferaises the Sp. Def stat.
-An item to be held by a Pokémon.\xfffeIt enables the holder to flee from\xfffeany wild Pokémon without fail.
-An item to be held by a Pokémon.\xfffeThe Pokémon holding this peculiar\xfffestone is prevented from evolving.
-An item to be held by a Pokémon.\xfffeThe holder may endure a potential KO\xfffeattack, leaving it with just 1 HP.
-An item to be held by a Pokémon.\xfffeIt is an egg filled with happiness that\xfffeearns extra Exp. Points in battle.
-An item to be held by a Pokémon.\xfffeIt is a lens that boosts the holder’s\xfffecritical-hit ratio.
-An item to be held by a Pokémon.\xfffeIt is a special metallic film that ups\xfffethe power of Steel-type moves.
-An item to be held by a Pokémon.\xfffeThe holder’s HP is gradually\xffferestored during battle.
-A thick and tough scale.\xfffeDragon-type Pokémon may be holding\xfffethis item when caught.
-An item to be held by PIKACHU.\xfffeIt is a puzzling orb that raises\xfffethe Attack and Sp. Atk stat.
-An item to be held by a Pokémon.\xfffeIt is a loose, silky sand that boosts\xfffethe power of Ground-type moves.
-An item to be held by a Pokémon.\xfffeIt is an unbreakable stone that ups\xfffethe power of Rock-type moves.
-An item to be held by a Pokémon.\xfffeIt is a seed imbued with life that ups\xfffethe power of Grass-type moves.
-An item to be held by a Pokémon.\xfffeIt is a shady-looking pair of glasses\xfffethat boosts Dark-type moves.
-An item to be held by a Pokémon.\xfffeIt is a belt that boosts determination\xfffeand Fighting-type moves.
-An item to be held by a Pokémon.\xfffeIt is a powerful magnet that boosts\xfffethe power of Electric-type moves.
-An item to be held by a Pokémon.\xfffeIt is a teardrop-shaped gem that ups\xfffethe power of Water-type moves.
-An item to be held by a Pokémon.\xfffeIt is a long, sharp beak that boosts\xfffethe power of Flying-type moves.
-An item to be held by a Pokémon.\xfffeIt is a small, poisonous barb that ups\xfffethe power of Poison-type moves.
-An item to be held by a Pokémon.\xfffeIt is a piece of ice that repels heat\xfffeand boosts Ice-type moves.
-An item to be held by a Pokémon.\xfffeIt is a sinister, eerie tag that boosts\xfffethe power of Ghost-type moves.
-An item to be held by a Pokémon. It is\xfffea spoon imbued with telekinetic power\xfffethat boosts Psychic-type moves.
-An item to be held by a Pokémon.\xfffeIt is a combustible fuel that boosts\xfffethe power of Fire-type moves.
-An item to be held by a Pokémon.\xfffeIt is a hard and sharp fang that ups\xfffethe power of Dragon-type moves.
-An item to be held by a Pokémon.\xfffeIt is a sumptuous scarf that boosts\xfffethe power of Normal-type moves.
-A transparent device filled with all\xfffesorts of data.\xfffeIt was produced by Silph Co.
-An item to be held by a Pokémon.\xfffeThe holder’s HP is restored a little\xfffeevery time it inflicts damage.
-An item to be held by a Pokémon. It is\xfffeincense with a curious aroma that\xfffeboosts the power of Water-type moves.
-An item to be held by a Pokémon. The\xfffetricky aroma of this incense lowers\xfffethe foe’s accuracy.
-An item to be held by CHANSEY. It is\xfffea pair of gloves that boosts\xfffeCHANSEY’s critical-hit ratio.
-An item to be held by DITTO.\xfffeExtremely fine yet hard, this odd\xfffepowder boosts the Defense stat.
-An item to be held by CUBONE or\xfffeMAROWAK. It is a hard bone of some\xfffesort that boosts the Attack stat.
-An item to be held by FARFETCH’D. It\xfffeis a very long and stiff stalk of leek\xfffethat boosts the critical-hit ratio.
-An item to be held by a Pokémon.\xfffeIt boosts the “Cool” aspect of the\xfffeholder in a Contest in Sinnoh.
-An item to be held by a Pokémon.\xfffeIt boosts the “Beauty” aspect of\xfffethe holder in a Contest in Sinnoh.
-An item to be held by a Pokémon.\xfffeIt boosts the “Cute” aspect of the\xfffeholder in a Contest in Sinnoh.
-An item to be held by a Pokémon.\xfffeIt boosts the “Smart” aspect of the\xfffeholder in a Contest in Sinnoh.
-An item to be held by a Pokémon.\xfffeIt boosts the “Tough” aspect of the\xfffeholder in a Contest in Sinnoh.
-An item to be held by a Pokémon.\xfffeIt is a magnifying lens that slightly\xfffeboosts the accuracy of moves.
-An item to be held by a Pokémon.\xfffeIt is a headband that slightly boosts\xfffethe power of physical moves.
-An item to be held by a Pokémon. It is\xfffea thick pair of glasses that slightly\xfffeboosts the power of special moves.
-An item to be held by a Pokémon. It is\xfffea well-worn belt that slightly boosts\xfffethe power of supereffective moves.
-A Pokémon held item that extends the\xfffeduration of barrier moves like Light\xfffeScreen and Reflect used by the holder.
-An item to be held by a Pokémon.\xfffeIt boosts the power of moves, but at\xfffethe cost of some HP on each hit.
-A single-use item to be held by a\xfffePokémon. It allows the immediate use of\xfffea move that charges on the first turn.
-An item to be held by a Pokémon.\xfffeIt is a bizarre orb that badly\xfffepoisons the holder in battle.
-An item to be held by a Pokémon.\xfffeIt is a bizarre orb that inflicts a\xfffeburn on the holder in battle.
-An item to be held by DITTO.\xfffeExtremely fine yet hard, this odd\xfffepowder boosts the Speed stat.
-An item to be held by a Pokémon. If it\xfffehas full HP, the holder will endure one\xfffepotential KO attack, leaving 1 HP.
-An item to be held by a Pokémon.\xfffeIf the holder moves after the foe,\xfffeits accuracy will be boosted.
-A Pokémon held item that boosts a\xfffemove used consecutively. Its effect\xfffeis reset if another move is used.
-A Pokémon held item that cuts Speed.\xfffeIt makes Flying-type and levitating\xfffeholders susceptible to Ground moves.
-An item to be held by a Pokémon.\xfffeIt is tremendously heavy and makes\xfffethe holder move slower than usual.
-A long, thin, bright red string to\xfffebe held by a Pokémon. If the holder\xfffebecomes infatuated, the foe does too.
-A held item that gradually restores\xfffethe HP of Poison-type Pokémon.\xfffeIt inflicts damage on all other types.
-A Pokémon held item that extends the\xfffeduration of the move Hail used by the\xfffeholder.
-A Pokémon held item that extends the\xfffeduration of the move Sandstorm used\xfffeby the holder.
-A Pokémon held item that extends the\xfffeduration of the move Sunny Day used\xfffeby the holder.
-A Pokémon held item that extends the\xfffeduration of the move Rain Dance used\xfffeby the holder.
-A Pokémon held item that extends the\xfffeduration of multiturn attacks like\xfffeBind and Wrap.
-An item to be held by a Pokémon.\xfffeThis scarf boosts Speed, but allows\xfffethe use of only one kind of move.
-A held item that damages the holder on\xfffeevery turn. It may latch on to foes\xfffethat touch the holder.
-A Pokémon held item that promotes\xfffeAttack gain on leveling, but reduces\xfffethe Speed stat.
-A Pokémon held item that promotes\xfffeDefense gain on leveling, but reduces\xfffethe Speed stat.
-A Pokémon held item that promotes\xfffeSp. Atk gain on leveling, but reduces\xfffethe Speed stat.
-A Pokémon held item that promotes\xfffeSp. Def gain on leveling, but reduces\xfffethe Speed stat.
-A Pokémon held item that promotes\xfffeSpeed gain on leveling, but reduces\xfffethe Speed stat.
-A Pokémon held item that promotes\xfffeHP gain on leveling, but reduces the\xfffeSpeed stat.
-A tough, discarded carapace to be held\xfffeby a Pokémon. It enables the holder to\xfffeswitch with a waiting Pokémon in battle.
-A Pokémon held item that boosts the\xfffepower of HP-stealing moves to let\xfffethe holder recover more HP.
-An item to be held by a Pokémon. These\xfffedistinctive glasses boost Sp. Atk, but\xfffeallow only one kind of move to be used.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Fire-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Water-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Electric-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Grass-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Ice-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Fighting-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Poison-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Ground-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Flying-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Psychic-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Bug-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Rock-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Ghost-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Dragon-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Dark-type moves.
-An item to be held by a Pokémon.\xfffeIt is a stone tablet that boosts the\xfffepower of Steel-type moves.
-An item to be held by a Pokémon. It is\xfffean exotic-smelling incense that boosts\xfffethe power of Psychic-type moves.
-An item to be held by a Pokémon. It is\xfffean exotic-smelling incense that boosts\xfffethe power of Rock-type moves.
-An item to be held by a Pokémon. It is\xfffean exotic-smelling incense that makes\xfffethe holder bloated and slow moving.
-An item to be held by a Pokémon. It is\xfffean exotic-smelling incense that boosts\xfffethe power of Water-type moves.
-An item to be held by a Pokémon. It is\xfffean exotic-smelling incense that boosts\xfffethe power of Grass-type moves.
-An item to be held by a Pokémon.\xfffeIt doubles a battle’s prize money if\xfffethe holding Pokémon joins in.
-An item to be held by a Pokémon.\xfffeIt helps keep wild Pokémon away if the\xfffeholder is the first one in the party.
-A protective item of some sort.\xfffeIt is extremely stiff and heavy.\xfffeIt is loved by a certain Pokémon.
-A box packed with a tremendous\xfffeamount of electric energy.\xfffeIt is loved by a certain Pokémon.
-A box packed with a tremendous\xfffeamount of magma energy.\xfffeIt is loved by a certain Pokémon.
-A transparent device overflowing with\xfffedubious data.\xfffeIts producer is unknown.
-A cloth imbued with horrifyingly strong\xfffespiritual energy.\xfffeIt is loved by a certain Pokémon.
-An item to be held by a Pokémon.\xfffeIt is a sharply hooked claw that ups\xfffethe holder’s critical-hit ratio.
-An item to be held by a Pokémon.\xfffeIt may cause the foe to flinch when\xfffethe holder inflicts damage.
+Ein hell leuchtender Orb.\xfffeVerstärkt Attacken vom Typ Drachen\xfffeund Stahl, wenn DIALGA ihn trägt.
+Ein hell leuchtender Orb.\xfffeVerstärkt Attacken vom Typ Drachen\xfffeund Wasser, wenn PALKIA ihn trägt.
+Das Briefpapier hat eine\xfffegrüne Wiese als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat heiße\xffferote Flammen als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat eine\xfffeUnterwasserwelt als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat hübsche\xfffeBlumen als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat eine\xfffedunkle Kohlemine als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat ein\xfffeMetallmuster als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat riesige\xfffeHerzen als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat eine\xfffeEislandschaft als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat den\xfffeweiten Weltraum als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat bunte\xfffeStreifen als Hintergrund.\xfffeGib es einem Pokémon mit.
+Das Briefpapier erstrahlt in\xfffeden Farben des Regenbogens.\xfffeGib es einem Pokémon mit.
+Das Briefpapier hat massive\xfffeZiegelsteine als Hintergrund.\xfffeGib es einem Pokémon mit.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffeheilt sie es von Paralyse.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffeerwacht es dadurch aus dem Schlaf.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffeheilt sie es von Vergiftung.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffeheilt sie es von Verbrennung.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffeheilt sie es von Frost.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen, füllt sie die\xfffeAP einer Attacke um 10 Punkte auf.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen, füllt sie\xfffeseine KP um 10 Punkte auf.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffeheilt sie es von Verwirrung.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen,\xfffehebt sie seine Statusprobleme auf.
+Gibst du die Beere einem Pokémon\xfffezu essen oder zum Tragen, füllt\xfffees seine KP ein wenig auf.
+Als Item (Tragen) füllt die Beere die KP\xfffeeines Pokémon auf, doch ihr scharfes\xfffeAroma verwirrt jene, die es nicht mögen.
+Als Item (Tragen) füllt die Beere die KP\xfffeeines Pokémon auf, doch ihr trockenes\xfffeAroma verwirrt jene, die es nicht mögen.
+Als Item (Tragen) füllt die Beere die KP\xfffeeines Pokémon auf, doch ihr süßes\xfffeAroma verwirrt jene, die es nicht mögen.
+Als Item (Tragen) füllt die Beere die KP\xfffeeines Pokémon auf, doch ihr bitteres\xfffeAroma verwirrt jene, die es nicht mögen.
+Als Item (Tragen) füllt die Beere die KP\xfffeeines Pokémon auf, doch ihr saures\xfffeAroma verwirrt jene, die es nicht mögen.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+Isst ein Pokémon diese Beere,\xfffestärkt dies eure Freundschaft,\xfffeverringert aber auch seine Basis-KP.
+Isst ein Pokémon diese Beere,\xfffestärkt dies eure Freundschaft,\xfffeverringert aber seinen Angriffs-Wert.
+Isst ein Pokémon diese Beere,\xfffestärkt dies eure Freundschaft,\xfffeverringert aber seinen Vert.-Wert.
+Isst ein Pokémon diese Beere,\xfffestärkt dies eure Freundschaft, ver-\xffferingert aber seinen Spez.-Angr.-Wert.
+Isst ein Pokémon diese Beere,\xfffestärkt dies eure Freundschaft, ver-\xffferingert aber seinen Spez.-Vert.-Wert.
+Isst ein Pokémon diese Beere,\xfffestärkt dies eure Freundschaft, ver-\xffferingert aber seinen Initiative-Wert.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+In der Sinnoh-Region sind diese\xfffeBeeren als Zutat für Snacks bekannt,\xfffedie man Knursp nennt.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Feuer.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Wasser.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Elektro.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Pflanze.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Eis.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Kampf.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Feuer.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Boden.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Flug.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Psycho.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Käfer.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Gestein.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Geist.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Drachen.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Unlicht.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Stahl.
+Als gehaltenes Item schwächt diese\xfffeBeere besonders effektive gegnerische\xfffeAttacken vom Typ Normal.
+Als gehaltenes Item erhöht diese Beere\xfffeden Angriffs-Wert eines Pokémon, sobald\xfffees in einer Notlage steckt.
+Als gehaltenes Item erhöht diese Beere\xfffeden Verteidigungs-Wert eines Pokémon,\xfffesobald es in einer Notlage steckt.
+Als gehaltenes Item erhöht diese Beere\xfffeden Initiative-Wert eines Pokémon,\xfffesobald es in einer Notlage steckt.
+Als gehaltenes Item erhöht diese Beere\xfffeden Spezial-Angriff eines Pokémon,\xfffesobald es in einer Notlage steckt.
+Als gehaltenes Item erhöht diese Beere\xfffedie Spezial-Verteidigung eines Pokémon,\xfffesobald es in einer Notlage steckt.
+Als gehaltenes Item erhöht diese Beere\xfffedie Volltrefferquote eines Pokémon,\xfffesobald es in einer Notlage steckt.
+Als gehaltenes Item erhöht diese Beere\xfffeeinen Statuswert des Pokémon stark,\xfffesobald es in einer Notlage steckt.
+Als gehaltenes Item füllt die Beere die\xfffeKP eines Pokémon auf, wenn es von sehr\xfffeeffektiven Attacken getroffen wird.
+Als gehaltenes Item erhöht die Beere\xfffedie Genauigkeit eines Pokémon, sobald\xfffees in einer Notlage steckt.
+Als gehaltenes Item ermöglicht\xfffedie Beere dem Träger in einer\xfffeNotlage den Erstschlag.
+Als gehaltenes Item bewirkt die Beere\xfffebeim Gegner Schaden, wenn er den Trä-\xfffeger mit einer physischen Attacke trifft.
+Als gehaltenes Item bewirkt die Beere\xfffebeim Gegner Schaden, wenn er den\xfffeTräger mit einer Spezial-Attacke trifft.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffesenkt die Genauigkeit des Gegners.
+Ein Item, das einem Pokémon zum Tragen\xfffegegeben werden kann. Es hebt jede\xfffenegative Statuswertveränderung auf.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann.\xfffeFördert Wachstum, senkt Initiative.
+Ein Item, das einem Pokémon zum Tragen\xfffegegeben werden kann. Es teilt die\xfffeErfahrungs-Punkte aus einem Kampf auf.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffehebt die Erstschlagquote.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffebesänftigt und fördert Sympathie.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffeerlöst Pokémon von Anziehung.
+Ein Item, das ein Pokémon tragen\xfffekann. Es stärkt den Angriffs-Wert. \xfffeAber nur eine Attacke ist einsetzbar.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffekann Gegner zurückweichen lassen.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffeverbessert Attacken vom Typ Käfer.
+Ein Item, das ein Pokémon trägt und\xfffedas doppeltes Preisgeld bringt, wenn\xfffeder Träger am Kampf teilnimmt.
+Ein Item zum Tragen. Reduziert\xfffeBegegnungen mit wilden Pokémon, wenn\xfffeder Träger an erster Stelle steht.
+Ein Item, das von LATIOS oder LATIAS\xfffegetragen werden kann. Es hebt Spezial-\xfffeAngriff und Spezial-Verteidigung.
+Ein Item, das von PERLU getragen\xfffewerden kann. Es schimmert silbern\xfffeund hebt den Spezial-Angriff.
+Ein Item, das von PERLU getragen\xfffewerden kann. Es schimmert pink\xfffeund hebt die Spezial-Verteidigung.
+Ein Pokémon kann dieses Item tragen.\xfffeEs erhöht die Chance, aus einem Kampf\xfffemit einem wilden Pokémon zu fliehen.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffebewirkt einen Entwicklungsstopp.
+Ein Item (Tragen), das eine\xfffeKampfunfähigkeit verhindern kann,\xfffeda dem Anwender 1 KP bleibt.
+Ein Item (Tragen), das mit Glück\xfffegefüllt ist und für zusätzliche\xfffeE.-Punkte im Kampf sorgt.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffeerhöht die Volltrefferquote.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffeverstärkt Attacken vom Typ Stahl.
+Ein Item, das einem Pokémon zum\xfffeTragen gegeben werden kann. Es\xfffefüllt im Kampf stetig KP auf.
+Eine dicke und starke Haut.\xfffeDrachen-Pokémon tragen\xfffedieses Item gerne bei sich.
+Ein Item, das von PIKACHU\xfffegetragen werden kann. Es erhöht\xfffeden Angriffs-Wert und Spezial-Angriff.
+Ein Item zum Tragen. Samtiger\xfffeSand, der Attacken vom Typ\xfffeBoden verstärkt.
+Ein Item zum Tragen. Ein unzer-\xfffebrechlicher Stein, der Attacken\xfffevom Typ Gestein verstärkt.
+Ein Item zum Tragen. Ein Samen\xfffevoller Lebenskraft, der Attacken\xfffevom Typ Pflanze verstärkt.
+Ein Item zum Tragen. Eine\xfffedunkle Brille, die Attacken\xfffevom Typ Unlicht verstärkt.
+Ein Item zum Tragen. Der Gürtel\xfffeverstärkt die Entschlossenheit\xfffeund Attacken vom Typ Kampf.
+Ein Item zum Tragen, dessen\xfffemagnetische Kraft Attacken\xfffevom Typ Elektro verstärkt.
+Ein Item zum Tragen. Ein tränen-\xfffeförmiger Edelstein, der Attacken\xfffevom Typ Wasser verstärkt.
+Ein Item zum Tragen. Ein langer,\xfffescharfer Schnabel verstärkt\xfffeAttacken vom Typ Flug.
+Ein Item zum Tragen. Ein schmaler und\xfffegiftiger Widerhaken, der Attacken vom\xfffeTyp Gift verstärkt.
+Ein Item zum Tragen. Ein Stück Eis,\xfffedas Hitze fernhält und Attacken\xfffevom Typ Eis verstärkt.
+Ein Item zum Tragen. Ein fieser,\xfffeunheimlicher Sticker, der Attacken\xfffevom Typ Geist verstärkt.
+Ein Item zum Tragen. Ein Löffel voll mit\xfffetelekinetischer Energie, der Attacken\xfffevom Typ Psycho verstärkt.
+Ein Item zum Tragen. Ein Heizmittel,\xfffedas Attacken vom Typ Feuer verstärkt.
+Ein Item zum Tragen. Ein harter und\xfffescharfer Reißzahn, der Attacken vom\xfffeTyp Drachen verstärkt. 51
+Ein Item zum Tragen. Ein kostbarer\xfffeSchal, der Attacken vom Typ Normal\xfffeverstärkt.
+Ein durchsichtiges Gerät. Es\xfffeenthält jede Menge Daten der\xfffeSilph Co.
+Ein Item zum Tragen. Es stellt einige\xfffeKP des Trägers immer dann wieder her,\xfffewenn dieser dem Gegner Schaden zufügt.
+Ein Item zum Tragen. Sein\xfffeausgefallenes Aroma verstärkt\xfffeAttacken vom Typ Wasser.
+Ein Item zum Tragen. Das\xfffekomplizierte Aroma senkt die\xfffeGenauigkeit des Gegners.
+Ein Item, das von CHANEIRA getragen\xfffewerden kann. Diese Handschuhe erhöhen\xfffedie Volltrefferquote von CHANEIRA.
+Ein Item, das von DITTO getragen\xfffewerden kann. Es erhöht seinen\xfffeVerteidigungs-Wert.
+Ein harter Knochen, der den Angriffs-\xfffeWert von TRAGOSSO oder KNOGGA\xfffeerhöht, wenn sie ihn tragen.
+Ein Item, das von PORENTA getragen\xfffewerden kann. Diese lange Lauchstange\xfffeerhöht die Volltrefferquote.
+Ein Item zum Tragen. In Sinnoh\xfffeerhöhen Trainer damit die "Coolness"\xfffeihres Pokémon in einem Wettbewerb.
+Ein Item zum Tragen. In Sinnoh\xfffeerhöhen Trainer damit die "Schönheit"\xfffeihres Pokémon in einem Wettbewerb.
+Ein Item zum Tragen. In Sinnoh\xfffeerhöhen Trainer damit die "Anmut"\xfffeihres Pokémon in einem Wettbewerb.
+Ein Item zum Tragen. In Sinnoh\xfffeerhöhen Trainer damit die "Klugheit"\xfffeihres Pokémon in einem Wettbewerb.
+Ein Item zum Tragen. In Sinnoh\xfffeerhöhen Trainer damit die "Stärke"\xfffeihres Pokémon in einem Wettbewerb.
+Ein Item zum Tragen.\xfffeDieses Vergrößerungsglas\xfffeerhöht die Genauigkeit.
+Ein Item zum Tragen.\xfffeDieses Stirnband verstärkt\xfffephysische Attacken.
+Ein Item zum Tragen.\xfffeDiese dicke Brille verstärkt auf\xfffeSpezial-Angriff basierende Attacken.
+Ein Item zum Tragen.\xfffeDieser alte Gürtel verstärkt\xfffesehr effektive Attacken.
+Ein Item zum Tragen.\xfffeVerlängert die Dauer von\xfffeLichtschild, Reflektor etc.
+Ein Item zum Tragen.\xfffeVerstärkt Attacken, aber jede\xfffeAttacke kostet den Träger KP.
+Ein Item (Tragen), das dem Träger den\xfffesofortigen Einsatz einer Attacke, die\xfffesonst aufgeladen werden muss, erlaubt.
+Ein Item zum Tragen. Dieser\xfffebizarre Orb vergiftet seinen\xfffeTräger im Kampf schwer.
+Ein Item zum Tragen.\xfffeDieser bizarre Orb fügt seinem\xfffeTräger Verbrennungen zu.
+Ein Item, das DITTO zum Tragen gegeben\xfffewerden kann. Fein und doch hart,\xfffeerhöht es den Initiative-Wert.
+Ein Item zum Tragen.\xfffeBei vollen KP reduziert eine\xfffeK.O.-Attacke die KP nur auf 1.
+Ein Item zum Tragen.\xfffeAgiert der Gegner zuerst, erhöht\xfffesich die Genauigkeit des Trägers.
+Ein Item zum Tragen.\xfffeVerstärkt eine Attacke, je öfter sie\xfffeununterbrochen ausgeführt wird.
+Ein Item zum Tragen, das Flug-Pokémon\xfffeanfällig für Attacken vom Typ Boden\xfffemacht. Senkt den Initiative-Wert.
+Ein Item zum Tragen.\xfffeEs ist immens schwer und senkt\xfffedie Geschwindigkeit des Trägers.
+Ein Item zum Tragen.\xfffeWird der Träger vernarrt, gilt\xfffedies auch für den Gegner.
+Ein Item zum Tragen, das einem\xfffeGift-Pokémon KP zurückgibt, anderen\xfffePokémon aber Schaden zufügt.
+Ein Item zum Tragen.\xfffeVerlängert die Dauer von Hagelsturm.
+Ein Item zum Tragen.\xfffeVerlängert die Dauer von Sandsturm.
+Ein Item zum Tragen.\xfffeVerlängert die Dauer von Sonnentag.
+Ein Item zum Tragen.\xfffeVerlängert die Dauer von Regentanz.
+Ein Item zum Tragen.\xfffeVerlängert die Dauer von\xfffeKlammergriff, Wickel etc.
+Ein Item zum Tragen.\xfffeDer Schal erhöht den Initiative-Wert,\xfffeerlaubt aber nur eine Attackenart.
+Dieses Item (Tragen) schadet dem\xfffeTräger in jeder Runde und eventuell dem\xfffeGegner, wenn der den Träger berührt.
+Ein Item zum Tragen.\xfffeErhöht bei Levelaufstieg den Angriffs-\xfffeWert, senkt aber die Initiative.
+Ein Item zum Tragen.\xfffeErhöht bei Levelaufstieg den Verteidi-\xfffegungs-Wert, senkt aber die Initiative.
+Ein Item zum Tragen.\xfffeErhöht bei Levelaufstieg den Spezial-\xfffeAngriff, senkt aber die Initiative.
+Ein Item zum Tragen.\xfffeErhöht bei Levelaufstieg die Spezial-\xfffeVerteidigung, senkt aber die Initiative.
+Ein Item zum Tragen. Erhöht bei\xfffeLevelaufstieg den Initiative-Wert,\xfffesenkt aber die Initiative allgemein.
+Ein Item zum Tragen.\xfffeErhöht bei Levelaufstieg die maximalen\xfffeKP, senkt aber die Initiative.
+Ein Item zum Tragen. Dieser harte\xfffePanzer ermöglicht den Austausch des\xfffeTrägers gegen ein wartendes Pokémon.
+Ein Item zum Tragen.\xfffeVerstärkt KP-stehlende Attacken.
+Ein Item zum Tragen.\xfffeDie Brille erhöht den Spezial-Angriff,\xfffeerlaubt aber nur eine Attackenart.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Feuer.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Wasser.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Elektro.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Pflanze.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Eis.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Kampf.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Gift.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Boden.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Flug.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Psycho.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Käfer.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Gestein.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Geist.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Drachen.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Unlicht.
+Ein Item zum Tragen. Diese Steintafel\xfffeverstärkt Attacken vom Typ Stahl.
+Ein Item zum Tragen. Dieses exotische\xfffeDuftkraut verstärkt Attacken vom\xfffeTyp Psycho.
+Ein Item zum Tragen. Dieses exotische\xfffeDuftkraut verstärkt Attacken vom\xfffeTyp Gestein.
+Ein Item zum Tragen. Dieses exotische\xfffeDuftkraut macht den Träger benommen\xfffeund langsam.
+Ein Item zum Tragen. Dieses exotische\xfffeDuftkraut verstärkt Attacken vom\xfffeTyp Wasser.
+Ein Item zum Tragen. Dieses exotische\xfffeDuftkraut verstärkt Attacken vom\xfffeTyp Pflanze.
+Ein Item zum Tragen.\xfffeEs bringt doppeltes Preisgeld, wenn\xfffeder Träger am Kampf teilnimmt.
+Ein Item zum Tragen. Reduziert\xfffeBegegnungen mit wilden Pokémon, wenn\xfffeder Träger an erster Stelle steht.
+Eine Art Schutzvorrichtung. Steif\xfffeund schwer. Das Lieblingsstück\xfffeeines bestimmten Pokémon.
+Eine Schachtel voller elektrischer\xfffeEnergie. Das Lieblingsstück\xfffeeines bestimmten Pokémon.
+Eine Schachtel voller Magmaenergie.\xfffeDas Lieblingsstück eines bestimmten\xfffePokémon.
+Eine Scheibe voller seltsamer\xfffeDaten. Ihr Ursprung ist unbekannt.
+Ein Stoffumhang voller geistiger\xfffeEnergie. Das Lieblingsstück\xfffeeines bestimmten Pokémon.
+Ein Item zum Tragen.\xfffeDie scharfe Klaue erhöht die\xfffeVolltrefferquote des Trägers.
+Ein Item zum Tragen.\xfffeVerursacht der Träger Schaden,\xfffeerschrickt der Gegner eventuell.
 It sharpens its claws. \xfffeIncreases your Accuracy and \xfffeAttack.
 The user slashes the foe \xfffewith huge, sharp claws. 
 It makes its mysterious brain \xfffewaves real and attacks the \xfffeopponents. It deals Physical damage. 
