@@ -114,10 +114,10 @@ Platin-Orb
 ???
 ???
 ???
-Aqua Cassette
-Zap Cassette
-Blaze Cassette
-Freeze Cassette
+Wasserkassette
+Blitzkassette
+Glutkassette
+Eiskassette
 ???
 ???
 ???
@@ -211,121 +211,121 @@ Wunfrubeere
 Eipfelbeere
 Jabocabeere
 Roselbeere
-BrightPowder
-White Herb
-Macho Brace
-Exp. Share
-Quick Claw
-Soothe Bell
-Mental Herb
-Choice Band
-King's Rock
-SilverPowder
-Amulet Coin
-Cleanse Tag
-Soul Dew
-DeepSeaTooth
-DeepSeaScale
-Smoke Ball
-Everstone
-Focus Band
-Lucky Egg
-Scope Lens
-Metal Coat
-Leftovers
-Dragon Scale
-Light Ball
-Soft Sand
-Hard Stone
-Miracle Seed
-BlackGlasses
-Black Belt
+Blendpuder
+Schlohkraut
+Machoband
+EP-Teiler
+Flinkklaue
+Sanftglocke
+Mentalkraut
+Wahlband
+King-Stein
+Silberstaub
+Münzamulett
+Schutzband
+Seelentau
+Abysszahn
+Abyssplatte
+Rauchball
+Ewigstein
+Fokus-Band
+Glücks-Ei
+Scope-Linse
+Metallmantel
+Überreste
+Drachenhaut
+Kugelblitz
+Pudersand
+Granitstein
+Wundersaat
+Schattenglas
+Schwarzgurt
 Magnet
-Mystic Water
-Sharp Beak
-Poison Barb
-NeverMeltIce
-Spell Tag
-TwistedSpoon
-Charcoal
-Dragon Fang
-Silk Scarf
+Zauberwasser
+Hackattack
+Giftstich
+Ewiges Eis
+Bannsticker
+Krummlöffel
+Holzkohle
+Drachenzahn
+Seidenschal
 Up-Grade
-Shell Bell
-Sea Incense
-Lax Incense
+Seegesang
+Seerauch
+Laxrauch
 Lucky Punch
-Metal Powder
-Thick Club
-Stick
-Red Scarf
-Blue Scarf
-Pink Scarf
-Green Scarf
-Yellow Scarf
-Wide Lens
-Muscle Band
-Wise Glasses
-Expert Belt
-Light Clay
-Life Orb
-Power Herb
-Toxic Orb
-Flame Orb
-Quick Powder
-Focus Sash
-Zoom Lens
-Metronome
-Iron Ball
-Lagging Tail
-Destiny Knot
-Black Sludge
-Icy Rock
-Smooth Rock
-Heat Rock
-Damp Rock
-Grip Claw
-Choice Scarf
-Sticky Barb
-Power Bracer
-Power Belt
-Power Lens
-Power Band
-Power Anklet
-Power Weight
-Shed Shell
-Big Root
-Choice Specs
-Flame Plate
-Splash Plate
-Zap Plate
-Meadow Plate
-Icicle Plate
-Fist Plate
-Toxic Plate
-Earth Plate
-Sky Plate
-Mind Plate
-Insect Plate
-Stone Plate
-Spooky Plate
-Draco Plate
-Dread Plate
-Iron Plate
-Odd Incense
-Rock Incense
-Full Incense
-Wave Incense
-Rose Incense
-Luck Incense
-Pure Incense
-Protector
-Electirizer
-Magmarizer
-Dubious Disc
-Reaper Cloth
-Razor Claw
-Razor Fang
+Metallstaub
+Kampfknochen
+Lauchstange
+Roter Schal
+Blauer Schal
+Rosa Schal
+Grüner Schal
+Gelber Schal
+Großlinse
+Muskelband
+Schauglas
+Expertengurt
+Lichtlehm
+Leben-Orb
+Energiekraut
+Toxik-Orb
+Heiß-Orb
+Flottstaub
+Fokusgurt
+Zoomlinse
+Metronom
+Eisenkugel
+Schwerschwf.
+Fatumknoten
+Giftschleim
+Eisbrocken
+Glattbrocken
+Heißbrocken
+Nassbrocken
+Griffklaue
+Wahlschal
+Klettdorn
+Machtreif
+Machtgurt
+Machtlinse
+Machtband
+Machtkette
+Machtgewicht
+Wechselhülle
+Großwurzel
+Wahlglas
+Feuertafel
+Wassertafel
+Blitztafel
+Wiesentafel
+Frosttafel
+Fausttafel
+Gifttafel
+Erdtafel
+Wolkentafel
+Hirntafel
+Käfertafel
+Steintafel
+Spuktafel
+Dracotafel
+Furchttafel
+Eisentafel
+Schrägrauch
+Steinrauch
+Lahmrauch
+Wellenrauch
+Rosenrauch
+Glücksrauch
+Scheuchrauch
+Schützer
+Stromisierer
+Magmarisierer
+Dubiousdisc
+Düsterumhang
+Scharfklaue
+Scharfzahn
 TM01
 TM02
 TM03
@@ -418,91 +418,91 @@ TM89
 TM90
 TM91
 TM92
-HM01
-HM02
-HM03
-HM04
-HM05
-HM06
+VM01
+VM02
+VM03
+VM04
+VM05
+VM06
 ???
 ???
-Explorer Kit
-Loot Sack
-Rule Book
-Poké Radar
-Point Card
-Journal
-Seal Case
-Fashion Case
-Seal Bag
-Pal Pad
-Works Key
-Old Charm
-Galactic Key
-Red Chain
-Town Map
-Vs. Seeker
-Coin Case
-Old Rod
-Good Rod
-Super Rod
-Sprayduck
-Poffin Case
-Bicycle
-Suite Key
-Oak's Letter
-Lunar Wing
-Member Card
-Azure Flute
-S.S. Ticket
-Contest Pass
-Magma Stone
-Parcel
-Coupon 1
-Coupon 2
-Coupon 3
-Storage Key
-SecretPotion
-Vs. Recorder
+Forschersack
+Beutesack
+Regelbuch
+Pokéradar
+Punktekarte
+Tagebuch
+Stick.Koffer
+Modekoffer
+Stickertüte
+Adressbuch
+K-Schlüssel
+Talisman
+G-Schlüssel
+Rote Kette
+Karte
+Kampffahnder
+Münzkorb
+Angel
+Superangel
+Profiangel
+Entonkanne
+Knurspbox
+Fahrrad
+B-Schlüssel
+Eichs Brief
+Lunarfeder
+Mitgl.Karte
+Azurflöte
+Bootsticket
+Wettb.-Karte
+Magmastein
+Paket
+Kupon 1
+Kupon 2
+Kupon 3
+L-Schlüssel
+Geheimtrank
+Kampfkamera
 Gracidea
-Secret Key
-Apricorn Box
-UNOWN Report
-Berry Pots
-Dowsing MCHN
-Blue Card
-SlowpokeTail
-Clear Bell
-Card Key
-Basement Key
-SquirtBottle
-Red Scale
-Lost Item
-Pass
-Machine Part
-Silver Wing
-Rainbow Wing
-Mystery Egg
-Red Apricorn
-Ylw Apricorn
-Blu Apricorn
-Grn Apricorn
-Pnk Apricorn
-Wht Apricorn
-Blk Apricorn
-Fast Ball
-Level Ball
-Lure Ball
-Heavy Ball
-Love Ball
-Friend Ball
-Moon Ball
-Sport Ball
-Park Ball
-Photo Album
-GB Sounds
-Tidal Bell
-RageCandyBar
+?-Öffner
+Aprikokobox
+Icognitoheft
+Pflanzset
+Itemradar
+Blaue Karte
+Flegmonrute
+Klarglocke
+Türöffner
+Kelleröffner
+Schiggykanne
+Rote Haut
+Fundsache
+Fahrschein
+Spule
+Silberflügel
+Buntschwinge
+Rätsel-Ei
+Aprikoko Rot
+Aprikoko Glb
+Aprikoko Blu
+Aprikoko Grn
+Aprikoko Pnk
+Aprikoko Wss
+Aprikoko Swz
+Flottball
+Levelball
+Köderball
+Schwerball
+Sympaball
+Freundesball
+Mondball
+Sportball
+Turnierball
+Fotoalbum
+GB-Player
+Gischglocke
+Wutkeks
 Data Card 01
 Data Card 02
 Data Card 03
@@ -530,66 +530,66 @@ Data Card 24
 Data Card 25
 Data Card 26
 Data Card 27
-Jade Orb
-Lock Capsule
-Red Orb
-Blue Orb
-Enigma Stone
-Clean Scale
-Evolution Stone
-Pumice Stone
-Rugged Helmet
-Balloon
-Red Card
-Bull's Eye
-Pressure Band
-Bulb
-Recharge Cell
-Escape Button
-Fire Jewel
-Water Jewel
-Electric Jewel
-Grass Jewel
-Ice Jewel
-Fight Jewel
-Poison Jewel
-Earth Jewel
-Flight Jewel
-Psychic Jewel
-Bug Jewel
-Rock Jewel
-Ghost Jewel
-Dragon Jewel
-Dark Jewel
-Steel Jewel
-Normal Jewel
-Strength Wing
-Power Wing
-Resistance Wing
-Wisdom Wing
-Mind Wing
-Instant Wing
-Beautiful Wing
-Lid Fossil
-Wing Fossil
+Grüne Kugel
+Tresorkapsel
+Rote Kugel
+Blaue Kugel
+Mytokristall
+Klarhaut
+Evolutionsstein
+Bimsstein
+Robuster Helm
+Ballon
+Rote Karte
+Zielscheibe
+Druckband
+Glaskolben
+Akku
+Fluchtknopf
+Feuerjuwel
+Wasserjuwel
+Elektrojuwel
+Grasjuwel
+Eisjuwel
+Kampfjuwel
+Giftjuwel
+Erdjuwel
+Flugjuwel
+Psychojuwel
+Käferjuwel
+Steinjuwel
+Geistjuwel
+Drachenjuwel
+Dunkeljuwel
+Stahljuwel
+Normaljuwel
+Stärkeflügel
+Kraftflügel
+Widerstandsflügel
+Klugflügel
+Hirnflügel
+Sofortflügel
+Schönflügel
+Klappenfossil
+Flügelfossil
 Liberty Ticket
-Deru Ball
-Dream Ball
+Deruball
+Traumball
 Poké-Toy
 Goods Case
-Dragon Bone
-FragrantMushroom
-Huge Gold Orb
+Drachenknochen
+Duftpilz
+Große Goldkugel
 Round Pearl
-Comet Piece
-Old Bronze Coin
-Old Silver Coin
-Old Gold Coin
-Old Vase
-Old Bracelet
-Old Statue
-Old Crown
-Hiun Ice-cream
+Kometenstück
+Alte Bronzemünze
+Alte Silbermünze
+Alte Goldmünze
+Alte Vase
+Alter Armreif
+Alte Statue
+Alte Krone
+Hiun Eiskreme
 Dire Hit 2
 X Speed 2
 X Sp. Atk 2
@@ -614,13 +614,13 @@ Item Drop
 Item Call
 Flat Call
 Dire Hit 3
-Light Stone
-Dark Stone
+Lichtstein
+Dunkelstein
 TM93
 TM94
 TM95
 Live Caster
-God Stone
+Gottstein
 DeliveredGoods1
 DeliveredGoods2
 DeliveredGoods3
