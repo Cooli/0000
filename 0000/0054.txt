@@ -1,116 +1,116 @@
-None
-Master Ball
-Ultra Ball
-Great Ball
-Poké Ball
-Safari Ball
-Net Ball
-Dive Ball
-Nest Ball
-Repeat Ball
-Timer Ball
-Luxury Ball
-Premier Ball
-Dusk Ball
-Heal Ball
-Quick Ball
-Cherish Ball
-Potion
-Antidote
-Burn Heal
-Ice Heal
-Awakening
-Parlyz Heal
-Full Restore
-Max Potion
-Hyper Potion
-Super Potion
-Full Heal
-Revive
-Max Revive
-Fresh Water
-Soda Pop
-Lemonade
-Moomoo Milk
-EnergyPowder
-Energy Root
-Heal Powder
-Revival Herb
-Ether
-Max Ether
-Elixir
-Max Elixir
-Lava Cookie
-Berry Juice
-Sacred Ash
-HP Up
+Nichts
+Meisterball
+Hyperall
+Superall
+Pokéball
+Safariball
+Netzball
+Tauchball
+Nestball
+Wiederball
+Timerball
+Luxusball
+Premierball
+Dunkelball
+Heilball
+Schnellball
+Jubelball
+Trank
+Gegengift
+Feuerheiler
+Eisheiler
+Aufwecker
+Para-Heiler
+Top-Genesung
+Top-Trank
+Hyper-Trank
+Super-Trank
+Hyperheiler
+Beleber
+Top-Beleber
+Tafelwasser
+Sprudel
+Limonade
+Kuhmuh-Milch
+Energiestaub
+Kraftwurzel
+Heilpuder
+Vitalkraut
+Äther
+Top-Äther
+Elixier
+Top-Elixier
+Lavakeks
+Beerensaft
+Zauberasche
+KP-Plus
 Protein
-Iron
-Carbos
-Calcium
-Rare Candy
-PP Up
-Zinc
-PP Max
-Old Gateau
-Guard Spec.
-Dire Hit
-X Attack
-X Defend
-X Speed
-X Accuracy
-X Special
-X Sp. Def
-Poké Doll
-Fluffy Tail
-Blue Flute
-Yellow Flute
-Red Flute
-Black Flute
-White Flute
-Shoal Salt
-Shoal Shell
-Red Shard
-Blue Shard
-Yellow Shard
-Green Shard
-Super Repel
-Max Repel
-Escape Rope
-Repel
-Sun Stone
-Moon Stone
-Fire Stone
-Thunderstone
-Water Stone
-Leaf Stone
-TinyMushroom
-Big Mushroom
-Pearl
-Big Pearl
-Stardust
-Star Piece
+Eisen
+Carbon
+Kalzium
+Sonderbonbon
+AP-Plus
+Zink
+AP-Top
+Spezialität
+Megablock
+Angriffplus
+X-Angriff
+X-Abwehr
+X-Tempo
+X-Treffer
+X-Spezial
+X-Sp. Def
+Poképuppe
+Eneco-Rute
+Blaue Flöte
+Gelbe Flöte
+Rote Flöte
+Schwarze Flöte
+Weisse Flöte
+Küstensalz
+Küstenschale
+Purpurstück
+Indigostück
+Gelbstück
+Grünstück
+Superschutz
+Top-Schutz
+Fluchtseil
+Schutz
+Sonnenstein
+Mondstein
+Feuerstein
+Donnerstein
+Wasserstein
+Blattstein
+Minipilz
+Riesenpilz
+Perle
+Riesenperle
+Sternenstaub
+Sternenstück
 Nugget
-Heart Scale
-Honey
-Growth Mulch
-Damp Mulch
-Stable Mulch
-Gooey Mulch
-Root Fossil
-Claw Fossil
-Helix Fossil
-Dome Fossil
-Old Amber
-Armor Fossil
-Skull Fossil
-Rare Bone
-Shiny Stone
-Dusk Stone
-Dawn Stone
-Oval Stone
-Odd Keystone
-Griseous Orb
+Herzschuppe
+Honig
+Wachsmulch
+Feuchtmulch
+Stabilmulch
+Neumulch
+Wurzelfossil
+Klauenfossil
+Helixfossil
+Domfossil
+Altbernstein
+Kopffossil
+Panzerfossil
+Steinknochen
+Leuchtstone
+Finsterstone
+Funkelstone
+Ovaler Stein
+Spiritkern
+Platin-Orb
 ???
 ???
 ???
@@ -219,7 +219,7 @@ Quick Claw
 Soothe Bell
 Mental Herb
 Choice Band
-King’s Rock
+King's Rock
 SilverPowder
 Amulet Coin
 Cleanse Tag
@@ -450,7 +450,7 @@ Sprayduck
 Poffin Case
 Bicycle
 Suite Key
-Oak’s Letter
+Oak's Letter
 Lunar Wing
 Member Card
 Azure Flute
