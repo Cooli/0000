@@ -1,4 +1,4 @@
-Nichts
+Keines
 Meisterball
 Hyperall
 Superall
@@ -535,7 +535,7 @@ Tresorkapsel
 Rote Kugel
 Blaue Kugel
 Mytokristall
-Klarhaut
+Klare Schuppe
 Evolutionsstein
 Bimsstein
 Robuster Helm
